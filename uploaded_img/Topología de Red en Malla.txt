@@ -1,0 +1,24 @@
+Topología de Red en Malla
+Se destaca porque existen muchas formas de comunicación entre los nodos.
+Malla completa: Cada nodo posee un circuito para conectarse a cada uno de los otros nodos.
+Malla principal: Algunos nodos son de malla completa y otros solo estan conectados a uno o dos.
+Ventaja
+Los problemas son fáciles de solucionar
+Tienen gran confiabilidad
+Desventaja
+Alto coste de instalación por la cantidad de cableado.
+
+https://www.edrawsoft.com/es/mesh-network.html
+
+Topología de Red en Árbol
+Los nodos se agrupan jerarquicamente en forma de árbol. Tiene un nodo central conocido como raíz, del cual se enlazan otros nodos ramas.
+Ventajas
+Comunicacion eficaz y directa
+Facil solucion de problemas
+Es sencillo incorporar nuevos nodos
+En caso de fallos la red puede redirigir los datos por otros caminos.
+Desventajas
+Es dependiente del nodo raíz
+Tiene alto coste
+Es poco flexible
+https://aprendeinformaticas.com/la-topologia-de-red-en-arbol/
